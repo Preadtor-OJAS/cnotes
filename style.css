@@ -15,7 +15,7 @@ body {
 
 .container {
     position: relative;
-    width: 450px;
+    width: 451px;
     min-height: 300px;
     background: rgba(255, 255, 255, 0.05);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 1);
